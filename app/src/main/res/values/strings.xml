@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!--Questions-->
+
+    <string name="quiz1">1.- What parking spot number is the car parked in?</string>
+    <string name="quiz2">2.- Does the rite of the Catholic Church allow a man to marry his widow\'s sister?</string>
+    <string name="quiz3">3.- A bear leaves his house and walks a kilometer to the south after a kilometer to the east then a kilometer to the north and returns to his house.
+What color is the bear?.</string>
+    <string name="quiz4">4.-On a table there are three black hats and two white hats. Three people wear a hat at random without looking at the color and are placed in single row.
+The third sees the color of the two in front and is asked if he could tell what the color of his hat. He replies that he does not.
+The second can only see the first hat. You ask the same question and you answer no.The first does not see a hat, but&#8230; What color is his hat?</string>
+    <string name="quiz5">5.- The pitched roof of my house has two slopes, one with a slope of 70 degrees facing my house and another with a 60 degree incline that gives the neighbor\'s garden.
+Suppose a rooster puts an egg exactly on top of peak, am I going to have omelet breakfast today?</string>
+    <string name="quiz6">6.- Beautiful Portia has three caskets: one gold, one silver and one lead. Inside one of them is her portrait(or landscape). Her father’s will has determined that any suitor must choose the casket with the portrait in order to win her hand in marriage.
+        Portia has the following words written on the caskets:</string>
+    <string name="quiz6b">Portia tells her suitor that of these three statements at most one is true. Which should he choose?</string>
+    <string name="quiz7">7.- In a race, a runner advances to the second runner. In what position is it placed?</string>
+    <string name="quiz8">8.- In a street there are 100 buildings, for some reason they lack the box that contained the number 9; If you call the number manufacturer to buy them.
+How many nines will you need?</string>
+    <string name="quiz9">9.- You have a greengrocers and they have distributed three boxes: one has only apples; Another, only oranges; The third, apples and oranges. Each box has a label: "apples", "oranges" and "apples and oranges". None of the boxes have the label that corresponds to them. If you, only, can you take a fruit out of a box, which box would you choose?</string>
+    <string name="quiz10">10.- In a tree there are 5 birds, with a double-barreled shotgun I kill 2 birds with a shot.
+How many left?</string>
+
+    <!--Text optiona-->
+
+    <string name="answer1">87</string>
+    <string name="option01">yes</string>
+    <string name="option02">no</string>
+    <string name="option03">Amber 600</string>
+    <string name="option04">Orange 800</string>
+    <string name="option05">Deep Orange 900</string>
+    <string name="option06">Brown 500</string>
+    <string name="option07">Grey 600</string>
+    <string name="option08">Blue Grey 300</string>
+    <string name="option09">Black</string>
+    <string name="option10">White</string>
+    <string name="option11">Black</string>
+    <string name="option12">White</string>
+    <string name="option13">Gold</string>
+    <string name="option14">Silver</string>
+    <string name="option15">Lead</string>
+    <string name="option16">First</string>
+    <string name="option17">Second</string>
+    <string name="option18">Third</string>
+    <string name="option19">100</string>
+    <string name="option20">50</string>
+    <string name="option21">20</string>
+    <string name="option22">19</string>
+    <string name="option23">18</string>
+    <string name="option24">10</string>
+    <string name="option25">Apples</string>
+    <string name="option26">Oranges</string>
+    <string name="option27">Apples and Oranges</string>
+    <string name="option28">3</string>
+    <string name="option29">2</string>
+    <string name="option30">1</string>
+    <string name="option31">0</string>
+    <string name="window_logincat">LOG</string>
+    <string name="button_solution">Text Result</string>
+    <string name="bears_berlin">The bears of Berlin</string>
+    <string name="greek_philosophicall">Greek Philosophical school</string>
+    <string name="photo4">The caskets of Portia</string>
+    <string name="caskets_description">Caskets description</string>
+    <string name="email_address">Email address</string>
+    <string name="ready_go">Ready?</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="parking_spot">parking spot</string>
+    <string name="man_vs_brain">Man vs. Brain</string>
+    <string name="zero">You are not right on any question</string>
+    <string name="Almost_zero">You have partially answered some questions.</string>
+
+
+</resources>

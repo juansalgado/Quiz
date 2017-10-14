@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define standard dimensions  -->
+
+    <dimen name="small">8dp</dimen>
+    <dimen name="medium">16dp</dimen>
+    <dimen name="large">24dp</dimen>
+    <dimen name="extralarge">32dp</dimen>
+    <dimen name="special">64dp</dimen>
+    <dimen name="window">160dp</dimen>
+    <dimen name="text">16sp</dimen>
+</resources>

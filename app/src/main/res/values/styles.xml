@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#537948</item>
+        <item name="colorPrimaryDark">#41b3ad</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="quiz" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">@color/albus</item>
+        <item name="android:paddingBottom">@dimen/window</item>
+        <item name="android:paddingTop">@dimen/extralarge</item>
+        <item name="android:padding">@dimen/large</item>
+    </style>
+
+    <style name="button" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:layout_width">@dimen/window</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_marginLeft">@dimen/medium</item>
+        <item name="android:background">#9b47b9</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+
+    <style name="checkbox" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_marginTop">@dimen/medium</item>
+        <item name="android:buttonTint">@color/more_green</item>
+        <item name="android:layout_marginLeft">@dimen/extralarge</item>
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="android:layout_marginBottom">@dimen/medium</item>
+
+    </style>
+
+    <style name="radiobutton" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_marginTop">@dimen/medium</item>
+        <item name="android:buttonTint">@color/more_green</item>
+        <item name="android:layout_marginLeft">@dimen/extralarge</item>
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="android:layout_width">@dimen/small</item>
+        <item name="android:layout_height">@dimen/small</item>
+
+    </style>
+
+
+</resources>
